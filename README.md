@@ -4,7 +4,6 @@
 StudyLens is a desktop application designed to help users gain objective insights into their study habits by analyzing focus, drowsiness, and attention patterns using local AI processing.
 
 ![StudyLens GUI](placeholder_screenshot.png)
-_(**Action:** Replace `placeholder_screenshot.png` with an actual screenshot of your Tkinter GUI)_
 
 ## Features
 
@@ -69,11 +68,13 @@ These instructions are for running the application directly from the Python sour
       ```
     - **Windows (PowerShell):**
       `bash
-    .\venv\Scripts\Activate.ps1 
-    # If execution policy prevents this, run: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process 
+      .\venv\Scripts\Activate.ps1
+
+    # If execution policy prevents this, run: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+
     # Then try activating again.
-    `
-      Your terminal prompt should now show `(venv)`.
+
+    `  Your terminal prompt should now show`(venv)`.
 
 4.  **Install Dependencies:**
     ```bash
