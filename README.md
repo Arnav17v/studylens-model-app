@@ -3,7 +3,7 @@
 
 StudyLens is a desktop application designed to help users gain objective insights into their study habits by analyzing focus, drowsiness, and attention patterns using local AI processing.
 
-![StudyLens GUI](/placeholder.png)
+![StudyLens GUI](placeholder.png)
 
 ## Features
 
