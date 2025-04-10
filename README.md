@@ -5,9 +5,6 @@ StudyLens is a desktop application designed to help users gain objective insight
 
 ![StudyLens GUI](./placeholder.png)
 
-<p align="center">
-  <img src="./placeholder.png" width="350" title="hover text">
-</p>
 ## Features
 
 - **Local Processing:** All video analysis happens on your computer, ensuring privacy. No video is ever uploaded.
