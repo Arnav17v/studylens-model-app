@@ -5,6 +5,9 @@ StudyLens is a desktop application designed to help users gain objective insight
 
 ![StudyLens GUI](./placeholder.png)
 
+<p align="center">
+  <img src="./placeholder.png" width="350" title="hover text">
+</p>
 ## Features
 
 - **Local Processing:** All video analysis happens on your computer, ensuring privacy. No video is ever uploaded.
@@ -113,13 +116,3 @@ These instructions are for running the application directly from the Python sour
 - **Webcam Errors:** Check if another application is using the webcam. Ensure the application has necessary camera permissions from the operating system. Verify the correct camera is being selected (usually index `0` in `cv2.VideoCapture(0)`).
 - **DeepFace Model Downloads:** The first time the application runs analysis (after clicking Start), it might pause while downloading required AI models from the internet. Ensure you have an active internet connection for this initial setup. These models are stored in `~/.deepface/weights`.
 ````
-
-**To Use This README:**
-
-1.  **Save:** Save this text as `README.md` in the _same directory_ as your `app_main.py` script (`STUDYLENS/models/`).
-2.  **Replace Placeholders:**
-    - Change `<URL_of_Your_GitHub_Repository>` to the actual URL.
-    - Change `<repository-folder-name>` if needed.
-    - Replace `placeholder_screenshot.png` with the path to an actual screenshot _relative to the README file_ (or use an absolute URL if hosting the image elsewhere) or just remove the image line if you don't have one yet.
-3.  **Verify `requirements.txt`:** Make sure the `requirements.txt` file you provided is accurate and located in the same directory.
-4.  **Commit:** Add `README.md` and `requirements.txt` to your Git repository.
